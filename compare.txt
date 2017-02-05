@@ -1,0 +1,14 @@
+select all data (512.650 data)
+mydac    :  732.25
+zeos     :  881.55
+dacmysql : 1382
+
+insert individu
+mydac    :   38.55
+zeos     :   39.50
+dacmysql :   48.83
+
+insert 10.000 barang
+mydac    :  154.80
+zeos     :  157.90
+dacmysql :  173.30
